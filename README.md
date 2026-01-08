@@ -482,23 +482,4 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 
 ***
 
-## Connect Me/ Follow Me @ 👇
-[<img height="30" width="37" src = "https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/gmail.svg">](mailto:hyadagirireddytutorials@gmail.com)
-[<img height="30" width="37" src = "https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/blogger.svg">](https://www.hyrtutorials.com/)
-[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/twitter.svg" />](https://twitter.com/Hyrtutorials)
-[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/linkedin.svg" />](https://www.linkedin.com/company/hyrtutorials/)
-[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/facebook.svg" />](https://www.facebook.com/HYRTutorials/)
-[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/instagram.svg" />](https://www.instagram.com/hyrtutorials/)
-[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/telegram.svg" />](https://t.me/hyrtutorials)
-
-***
-
-## Support Me 👇
-If you like my work, You can show your support and buy me a [coffee](https://www.buymeacoffee.com/yadagirireddy) ☕
-
-***
-
-![alt text][logo]
-
-[logo]: https://1.bp.blogspot.com/-2ay0S4DnE2Y/X10bo891-HI/AAAAAAAABF0/Th_6-D2c8fQTI5KheShLcrWF68LREL-MQCLcBGAsYHQ/w400-h110/output-onlinepngtools%2B%25281%2529.png "H Y R Tutorials"
 
