@@ -1,23 +1,9 @@
-# H Y R Tutorials
 
-This repository is created and will be used for uploading the programs which I created in my tutorial videos.
-
-Also it can be used to browse all the videos and playlists from single place.
-
-You can find the GitHub link in the video description or you can directly browse the content from Here.
-
-***
 
 ### YouTube Channel Links: 
 #### H Y R Tutorials (English) - https://www.youtube.com/hyrtutorials
 #### H Y R Tutorials (Telugu) - https://www.youtube.com/c/hyrtutorialstelugu <br />
 
-🙏 Please Subscribe🔔 to start learning for FREE, Also help your friends in learning the best by suggesting these channels.
-
-Join my youtube channel to get access to perks:
-https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
-
-***
 
 ## Checkout my YouTube Tutorial Playlists (English) 👇
 
